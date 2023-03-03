@@ -1,7 +1,3 @@
-Basic Computer quiz game for beginners
-
-Get idea about 
-print 
-if else statement
-input functions 
-operators
+Basic python mini project for begineers
+1.Quiz game
+2. Gussing the number
